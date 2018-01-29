@@ -7,6 +7,10 @@
 int main() {
     int sum = 0;
     for (int i = 0; i < 1000; i++) {
+        /* To check if a number is a multiple of another number we use 
+          the module operator and if it returns 0, then it is a multiple.
+        */
+        
         if (i % 3 == 0 || i % 5 == 0) {
             sum+=i;
         }
