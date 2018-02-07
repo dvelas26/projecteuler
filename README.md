@@ -8,3 +8,5 @@ Quoting their front page
 The motivation for starting Project Euler, and its continuation, is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context."
 
 For more info about it you can go to: https://projecteuler.net/
+![alt text][badge]
+[badge]: https://projecteuler.net/profile/dvelas26.png
